@@ -13,7 +13,6 @@ public:
             }
             if(ls.size() == 2) break;
         }
-        sort(ls.begin(), ls.end());
         return ls;
         
     }
